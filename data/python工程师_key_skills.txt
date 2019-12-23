@@ -1,0 +1,17 @@
+数学=1
+数据处理=1
+产品=1
+架构=1
+hadoophivehbasespakkafkaflink=1
+编程语言=1
+scala=1
+java=1
+脚本语言=1
+python=1
+shell4=1
+电商=1
+系统=1
+数据挖掘=1
+经验=1
+团队=1
+精神=1
