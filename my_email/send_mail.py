@@ -8,9 +8,9 @@ from os import sep
 
 def send_simple_mail(txt, receiver):
     host_server = 'smtp.qq.com'
-    sender_qq = '1033161554'
-    pwd = "frxgpxefroelbdfh"
-    sender = '1033161554@qq.com'
+    sender_qq = '修改成您自己的'
+    pwd = "修改成您自己的"
+    sender = '修改成您自己的qq邮箱'
     mail_title = '网站存活检测报告'
 
     # 邮件正文内容
